@@ -1,5 +1,5 @@
 # Linear Regression,Decision-Tree,Random Forest-of-HR-data-set-in-python
-Human Resources are critical resources of any organiazation. Organizations spend huge amount of time and money to hire and nuture their employees. It is a huge loss for companies if employees leave, especially the key resources. So if HR can predict weather employees are at risk for leaving the company, it will allow them to identify the attrition risks and help understand and provie necessary support to retain those employees or do preventive hiring to minimize the impact to the orgranization.
+Human Resources are critical resources of any organiazation. Organizations spend huge amount of time and money to hire and nurture their employees. It is a huge loss for companies if employees leave, especially the key resources. So if HR can predict weather employees are at risk for leaving the company, it will allow them to identify the attrition risks and help understand and provide necessary support to retain those employees or do preventive hiring to minimize the impact to the orgranization.
 
 This dataset is taken from kaggle https://www.kaggle.com/ludobenistant/hr-analytics
 
