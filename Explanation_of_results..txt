@@ -1,0 +1,50 @@
+#Observations from the Linear regression model
+
+
+
+1)Overall test accuracy is 78%. But it is not a good measure. The result is very high as there are lots of cases which are no left and the model has predicted most of them as no left.
+
+
+
+2)The objective of the model is to indentify the people who will leave, so that the company can intervene and act.
+
+
+
+3)This might be the case as the default model assumes people with more than 0.5 probability will not leave the company.
+
+
+
+
+#Observations from Randomm forest
+
+
+As per the model, the most important features which influence whether to leave the company,in descending order, are
+
+
+
+1-satisfaction_level
+
+
+2-time_spend_company
+
+
+3-number_project
+
+
+4-last_evaluation
+
+
+5-average_montly_hours
+
+
+6-work_accident
+
+#Accuracy given by the models.
+
+Linear regression-0.82
+
+Decision Tree-0.9763
+
+Random Forest-0.9846
+
+It is evident from the accuracy, that Romdom Forest has way better accuracy than Linear regression and Decision Tree, so in the case of HR data set rondom Forest shows best fit.
